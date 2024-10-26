@@ -1,0 +1,18 @@
+@media screen and (max-width: 992px) {
+    .contact{
+       margin-top: 5px;
+    }
+    .service{
+        margin-top: 25px;
+    }
+    .menu-section{
+        background: rgb(247, 243, 243);
+        margin-top: 10px;
+    }
+    .menu, .sub_menu{
+        margin-left: 15px;
+      }
+    #basic-nav-dropdown{
+        margin-left: 1.5px;
+    }
+  }
